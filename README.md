@@ -1,2 +1,2 @@
 # nalalam.gitub.io/nalalam
-##Simple Bio
+Simple Bio
